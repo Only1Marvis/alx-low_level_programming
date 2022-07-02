@@ -1,0 +1,13 @@
+Task 0. This is a program which assigns a random number to the variable n each time it is executed. It prints whether the number stored in the variable n is positive or negative.
+Task 1. This is a program which assigns a random number to the variable n each time it is executed. It prints the last digit of the number stored in the variable n.
+Task 2. This script writes a program that prints the alphabet in lowercase, followed by a new line.
+Task 3. This script writes a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+Task 4. This script writes a program that prints the alphabet in lowercase, followed by a new line.
+Task 5. This script writes a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Task 6. This script writes a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+Task 7. This script writes a program that prints the lowercase alphabet in reverse, followed by a new line.
+Task 8. This script writes a program that prints all the numbers of base 16 in lowercase, followed by a new line.
+Task 9. This script writes a program that prints all possible combinations of single-digit numbers.
+Task 10. This script writes a program that prints all possible different combinations of two digits.
+Task 11. This script writes a program that prints all possible different combinations of three digits.
+Task 12. This script writes a program that prints all possible combinations of two two-digit numbers.
